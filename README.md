@@ -19,6 +19,8 @@ Our analysis produced the following results:
 
 #### Random Oversampler
 
+Accuracy Score: 0.648072305476572
+
 Confusion Matrix
 
 ![random_over_cm](/resources/random_over_cm.PNG)
@@ -28,6 +30,8 @@ Imbalanced Classification Report
 ![random_over](/resources/random_over.PNG)
 
 #### SMOTE
+
+Accuracy Score: 0.6625695222702812
 
 Confusion Matrix
 
@@ -41,6 +45,8 @@ Imbalanced Classification Report
 
 #### Cluster Centroids
 
+Accuracy Score: 0.5442661782548694
+
 Confusion Matrix
 
 ![under_cm](/resources/under_cm.PNG)
@@ -51,6 +57,8 @@ Imbalanced Classification Report
 
 ### Combination (Over and Under) Sampling
 
+Accuracy Score: 0.6639481008437607
+
 Confusion Matrix
 
 ![combo_cm](/resources/combo_cm.PNG)
@@ -60,6 +68,8 @@ Imbalanced Classification Report
 ![combo](/resources/combo.PNG)
 
 ### Balanced Random Forest Classifier
+
+Accuracy Score: 0.7885466545953005
 
 Confusion Matrix
 
@@ -72,6 +82,8 @@ Imbalanced Classification Report
 ### Easy Ensemble Classifier
 
 Confusion Matrix
+
+Accuracy Score: 0.9316600714093861
 
 ![ee_cm](/resources/ee_cm.PNG)
 

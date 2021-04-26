@@ -92,3 +92,6 @@ Imbalanced Classification Report
 ![ee](/resources/ee.PNG)
 
 ## Summary
+
+Of the six models, the Easy Ensemble Classifier option produced the highest accuracy score. This model also has a perfect precision score for low risk applications, along with high recall and F1 scores. However, we have significantly low precision and F1 scores, and a high recall score, which means that this model will have a large number of false positives and a low number of false negatives. 
+Since nearly all applications that are actually high risk are being classified as high risk, additional testing will be required to address the large amount of large positives. If resources are available to perform additional testing, then I would recommend  going forward with this model.

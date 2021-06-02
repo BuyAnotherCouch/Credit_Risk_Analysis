@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project is to user machine learning to predict credit risk. To achieve this, we will be using the following six machine learning models:
+The purpose of this project is to use machine learning to predict credit risk. To achieve this, we will be using the following six machine learning models:
 
 - Oversampling (Random Oversampler and SMOTE)
 - Undersampling (Cluster Centroids)
